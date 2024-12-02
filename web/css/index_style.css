@@ -1,0 +1,64 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Mar 16, 2024, 2:59:13 PM
+    Author     : junaid
+*/
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.navbar{
+    background-color: #a5d6a7;
+    color: black; 
+}
+
+.form-select{
+    width: 100%;
+}
+.paradiv{
+    padding-top: 20px;
+}
+.para{
+    margin: 5px;
+    font-size: 19px;
+}
+.heading{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+.headerdiv{
+    height: 650px;
+    background-color: antiquewhite;
+}
+#header_img{
+    height:560px; 
+}
+.second_div{
+    height: 600px;
+}
+.links{
+    font-size: 21px;
+    padding-left: 100px;
+    margin-bottom: 1.3rem;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+svg{
+    height: 40px;
+    width: 40px;
+}
+
+

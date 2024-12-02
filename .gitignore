@@ -1,0 +1,40 @@
+# NetBeans specific files
+nbproject/private/
+nbproject/Makefile-*
+nbproject/configs/
+
+# Build and distribution directories
+/build/
+/dist/
+
+# Libraries and configuration (if using dependency management, remove /lib/)
+lib/
+/src/conf/
+
+# Java build files
+*.class
+*.jar
+*.war
+
+# Logs and temporary files
+*.log
+
+# IDE-specific files
+.netbeans/
+.idea/
+.vscode/
+
+# Operating system-specific files
+.DS_Store
+Thumbs.db
+
+# Maven/Gradle files (if applicable)
+*.iml
+target/
+.gradle/
+.mvn/
+
+# Ignore generated files
+*.generated/
+*.bak
+*.tmp
